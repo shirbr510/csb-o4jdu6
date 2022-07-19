@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://shirbr510.github.io/csb-o4jdu6/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://shirbr510.github.io/csb-o4jdu6/static/js/main.6d6e9c2d.chunk.js",
+    "main.js.map": "https://shirbr510.github.io/csb-o4jdu6/static/js/main.6d6e9c2d.chunk.js.map",
+    "runtime-main.js": "https://shirbr510.github.io/csb-o4jdu6/static/js/runtime-main.6f6e0e1b.js",
+    "runtime-main.js.map": "https://shirbr510.github.io/csb-o4jdu6/static/js/runtime-main.6f6e0e1b.js.map",
+    "static/js/2.b0504009.chunk.js": "https://shirbr510.github.io/csb-o4jdu6/static/js/2.b0504009.chunk.js",
+    "static/js/2.b0504009.chunk.js.map": "https://shirbr510.github.io/csb-o4jdu6/static/js/2.b0504009.chunk.js.map",
+    "index.html": "https://shirbr510.github.io/csb-o4jdu6/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://shirbr510.github.io/csb-o4jdu6/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b0504009.chunk.js.LICENSE.txt": "https://shirbr510.github.io/csb-o4jdu6/static/js/2.b0504009.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f6e0e1b.js",
+    "static/js/2.b0504009.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.6d6e9c2d.chunk.js"
+  ]
+}
